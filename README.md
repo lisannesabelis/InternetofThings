@@ -27,7 +27,7 @@ So I tried that aswell, and it worked.
 So what I did was follow all the steps from the site, and i switched HIGH to LOW and visa versa.
 
 After that I started trying to get the ledstrip to work.
-After searching on google for 2 hours i finally found this manual that looked promising:
+After searching on google for a long time I found this manual that looked promising:
 https://www.instructables.com/IoT-Manual-Digital-Remote-for-LED/
 
 At some point it said to install the library: esp8266 by ESP8266 Community (version 2.5.0)
@@ -38,9 +38,9 @@ Next I went to this page:
 https://github.com/witnessmenow/Simple-Home-Automation-With-Telegram
 
 There I found LEDCONTROL. Then I went back to the manual I found earlier in the day.
-Also didn't work. I've been working on this for 4 hours and I didn't find anything.
+Also didn't work.
 
-In the end I didn't write a manual, because I never came close to starting.
+Then I tried the manual again.
 
 These are the sites I visited:
 https://iotdesignpro.com/projects/telegram-controlled-home-automation-using-esp8266
