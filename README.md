@@ -22,3 +22,13 @@ Then it said that this needs to be done:
 ![image](https://user-images.githubusercontent.com/74072161/137132345-a57b285c-03aa-4b8f-b605-beaf721de525.png)
 
 So I tried that aswell, and it worked!
+
+So what I did was follow all the steps from the site, and i switched HIGH to LOW and visa versa.
+
+After that I started trying to get the ledstrip to work.
+I've googled for 2 hours and I still couldn't find anything.
+Then I found this manual:
+https://www.instructables.com/IoT-Manual-Digital-Remote-for-LED/
+
+At some point it said to install the library: esp8266 by ESP8266 Community (version 2.5.0)
+I didn't find it in the library manager, so that didn't work aswell. 
