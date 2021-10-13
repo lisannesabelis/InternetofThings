@@ -2,7 +2,7 @@
 Homework for IoT
 
 For the homework for thursday 14 october we needed to write a manual about controlling a LEDstrip through Telegram.
-This document will show how the process of managing that went.
+This document will show what I tried to make the manual.
 
 I found a site on google that showed how to make it work:
 This is only the part about making the led on the board work.
