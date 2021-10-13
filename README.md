@@ -32,3 +32,9 @@ https://www.instructables.com/IoT-Manual-Digital-Remote-for-LED/
 
 At some point it said to install the library: esp8266 by ESP8266 Community (version 2.5.0)
 I didn't find it in the library manager, so that didn't work aswell. 
+It also said to open LEDCONTROL in Arduino. Couldn't find that file anywhere aswell.
+
+Next I went to this page:
+https://github.com/witnessmenow/Simple-Home-Automation-With-Telegram
+
+There I found LEDCONTROL. Then I went back to the manual I found earlier in the day.
