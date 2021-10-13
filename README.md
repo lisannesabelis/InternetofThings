@@ -43,7 +43,8 @@ Also didn't work.
 Then I tried the manual again. It contained a video which shows how they build the manual, so i tried it with the video:
 https://www.youtube.com/watch?v=-IC-Z78aTOs&t=24s
 
-In the end I couldn't manage to make it work.
+In the end I couldn't manage to make it work.It's probably because I never used the right code.
+At least I tried. :)
 
 These are the sites I visited:
 https://iotdesignpro.com/projects/telegram-controlled-home-automation-using-esp8266
